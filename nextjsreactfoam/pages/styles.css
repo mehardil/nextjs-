@@ -1,0 +1,50 @@
+.hidetext {
+  -webkit-text-security: disc; /* Default */
+}
+.end {
+  justify-content: flex-end;
+  padding: 10px;
+}
+.document-close {
+  text-indent: -9999px;
+  background: none;
+  border: none;
+  width: 30px;
+  height: 30px;
+  display: block;
+  position: absolute;
+  right: 0;
+}
+
+.eventWidget .widget.widget-stats .stats-title {
+  padding-bottom: 50px;
+}
+
+.rbc-allday-cell {
+  display: none;
+}
+.rbc-time-view .rbc-header {
+  border-bottom: none;
+}
+
+.rbc-time-header-content > .rbc-row.rbc-row-resource {
+  border-bottom: none;
+}
+
+.rbc-time-content {
+  max-height: 480px;
+}
+
+.rich-text-editor-wrapper {
+  color: rgb(36, 42, 48);
+}
+
+.custom-question-cell > div > p {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+.table-view-tr-color > .progress {
+  background-color: #348ee3 !important;
+}
+
